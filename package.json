@@ -9,17 +9,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "axios": "^1.7.2",
+    "axios": "^1.8.4",
     "fs": "^0.0.1-security",
-    "nodemailer": "^6.9.13",
+    "nodemailer": "^6.10.1",
     "path": "^0.12.7",
-    "vue": "^3.4.21",
-    "body-parser": "^1.20.2",
+    "vue": "^3.5.13",
+    "body-parser": "^2.2.0",
     "cors": "^2.8.5",
-    "express": "^4.19.2",
+    "express": "^5.1.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.0.4",
-    "vite": "^5.2.0"
+    "@vitejs/plugin-vue": "^5.2.3",
+    "vite": "^6.3.2"
   }
 }
